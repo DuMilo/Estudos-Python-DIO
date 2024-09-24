@@ -26,3 +26,19 @@ for letra in menu:
 
 # Qualquer nome que for inserido em 'letra', automaticamente já vai ser referir
 # ao caracteres da String.
+
+# Saídas:
+
+#MILO MOREIRA
+#milo moreira
+#Milo Moreira
+#   Oba, amanhã tem bolo   !
+#Oba, amanhã tem bolo!
+#Oba, amanhã tem bolo   !
+#   Oba, amanhã tem bolo!
+#####Python####
+#    Python
+#####Python####
+#P-y-t-h-o-n
+#P-y-t-h-o-n
+#P.y.t.h.o.n.
