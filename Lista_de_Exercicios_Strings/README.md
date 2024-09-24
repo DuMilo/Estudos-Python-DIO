@@ -4,18 +4,18 @@
 
 ##
 
-#### Saída do código acima:
+### Saída do código acima:
 
-MILO MOREIRA
-milo moreira
-Milo Moreira
-   Oba, amanhã tem bolo   !
-Oba, amanhã tem bolo!
-Oba, amanhã tem bolo   !
-   Oba, amanhã tem bolo!
-####Python####
-    Python
-####Python####
-P-y-t-h-o-n
-P-y-t-h-o-n
-P.y.t.h.o.n.
+##### MILO MOREIRA
+##### milo moreira
+##### Milo Moreira
+#####   Oba, amanhã tem bolo   !
+##### Oba, amanhã tem bolo!
+##### Oba, amanhã tem bolo   !
+#####   Oba, amanhã tem bolo!
+##### ####Python####
+#####    Python
+##### ####Python####
+##### P-y-t-h-o-n
+##### P-y-t-h-o-n
+##### P.y.t.h.o.n.
