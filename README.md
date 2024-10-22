@@ -13,5 +13,5 @@
   <li>Programação Orientada a Objetos com Python</li>
 </ul>
 <p align="left"><b>O uso de ';' em Python é optativo, <br>
-  o uso dele nos exercícios é apenas por costume em outras linguagens.</b></p>
+  o uso dele nos exercícios é apenas por costume pessoal.</b></p>
 </div>
