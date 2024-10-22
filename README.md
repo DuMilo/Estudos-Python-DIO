@@ -12,6 +12,6 @@
   <li>Trabalhando com Coleções em Python</li>
   <li>Programação Orientada a Objetos com Python</li>
 </ul>
-<p align="left"><b>O uso de ';' em Python é puramente optativo, <br>
-  eu o utilizo por mexer com linguagens que utilizam de tal pontuação.</b></p>
+<p align="left"><b>O uso de ';' em Python é optativo, <br>
+  o uso dele nos exercícios é apenas por costume em outras linguagens.</b></p>
 </div>
