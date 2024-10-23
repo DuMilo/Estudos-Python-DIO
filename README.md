@@ -12,6 +12,6 @@
   <li>Trabalhando com Coleções em Python</li>
   <li>Programação Orientada a Objetos com Python</li>
 </ul>
-<p align="left"><b>O uso de ';' em Python é optativo, <br>
+<p align="left"><b>O uso de ';' em Python é opcional, <br>
   o uso dele nos exercícios é apenas por costume pessoal.</b></p>
 </div>
