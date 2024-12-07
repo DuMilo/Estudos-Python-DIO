@@ -20,10 +20,10 @@ class Leao(Mamifero):
     pass;
 
 class Ornitorrinco(Mamifero, Ave):
-    def __init__(self, cor_pelo, cor_bico, n_patas):
+    def __init__(self, **kw):
         # print(Ornitorrinco.__mro__)
 
-        super().__init__(cor_pelo=cor_pelo, cor_bico=cor_bico, n_patas=n_patas);
+        super().__init__(**kw);
 
 leao = Leao(n_patas=4, cor_pelo="Amarelo");
 print(leao);
